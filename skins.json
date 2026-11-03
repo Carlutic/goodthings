@@ -1,6 +1,6 @@
 [
     {
-        "id": 121000,
+        "id": 131031,
         "name": "gt0003",
         "displayName": "Yujin _TDZG（花枪）",
         "weaponType": "",
@@ -14,7 +14,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121001,
+        "id": 131051,
         "name": "gt0005",
         "displayName": "星穹铁道—姬子模型（机器人）",
         "weaponType": "",
@@ -28,7 +28,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121002,
+        "id": 131052,
         "name": "gt0005",
         "displayName": "星穹铁道—姬子模型（箱子）",
         "weaponType": "",
@@ -42,7 +42,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121003,
+        "id": 131053,
         "name": "gt0005",
         "displayName": "星穹铁道—姬子模型（杯子）",
         "weaponType": "",
@@ -56,7 +56,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121004,
+        "id": 131054,
         "name": "gt0005",
         "displayName": "星穹铁道—姬子模型（书）",
         "weaponType": "",
@@ -70,7 +70,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121005,
+        "id": 131055,
         "name": "gt0005",
         "displayName": "星穹铁道—姬子模型（化妆镜）",
         "weaponType": "",
@@ -84,7 +84,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121006,
+        "id": 131111,
         "name": "gt0011",
         "displayName": "[3427][Honkai[Star[Rail][SilverWolf]银狼里模（炮）",
         "weaponType": "",
@@ -98,7 +98,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121007,
+        "id": 131241,
         "name": "gt0024",
         "displayName": "希诺宁+Nsfw+VR+0.9（Xilonen Nsfw VR 0.9）",
         "weaponType": "",
@@ -112,7 +112,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121008,
+        "id": 131271,
         "name": "gt0027",
         "displayName": "李素裳-锦岁玉团_By_Alicia（剑）",
         "weaponType": "",
@@ -126,7 +126,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121009,
+        "id": 131272,
         "name": "gt0027",
         "displayName": "李素裳-锦岁玉团_By_Alicia（太极剑）",
         "weaponType": "",
@@ -140,7 +140,7 @@
         "base": "https://carlutic.github.io/goodthings/"
     },
     {
-        "id": 121010,
+        "id": 131273,
         "name": "gt0027",
         "displayName": "李素裳-锦岁玉团_By_Alicia（太极大剑）",
         "weaponType": "",
@@ -151,34 +151,6 @@
         "directory": "chars/gt0027",
         "image": "Covers/gt0027.png",
         "pmx": "v03/李素裳R18-锦岁玉团_By_Alicia/太极大剑.pmx",
-        "base": "https://carlutic.github.io/goodthings/"
-    },
-    {
-        "id": 121011,
-        "name": "gt0035",
-        "displayName": "希尔德加德1.5（KMS Hindenburg Sexy underwear）",
-        "weaponType": "",
-        "element": "GoodThings",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/gt0035",
-        "image": "Covers/gt0035.png",
-        "pmx": "v01/KMS Hindenburg/KMS Hindenburg Sexy underwear.pmx",
-        "base": "https://carlutic.github.io/goodthings/"
-    },
-    {
-        "id": 121012,
-        "name": "gt0036",
-        "displayName": "胡桃 New（Hutao Summer）",
-        "weaponType": "",
-        "element": "GoodThings",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/gt0036",
-        "image": "Covers/gt0036.png",
-        "pmx": "v01/HuTao New/HuTao New/Hutao Summer.pmx",
         "base": "https://carlutic.github.io/goodthings/"
     }
 ]
